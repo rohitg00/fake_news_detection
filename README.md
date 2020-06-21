@@ -6,6 +6,7 @@ We can however extend this to deploy on a website or such.
 ## Open Source Contest SCI 2020
 tudent Code-in is a global program that helps students grow with “OPEN SOURCE”. It is a 2 months long Open-Source initiative which provides you the best platform to improve your skills and abilities by contributing to vast variety of OPEN SOURCE Projects. In this,all the registered participants would get an exquisite opportunity to interact with the mentors and the Organizing Team.
 
-![SCI 2020 logo] (/SCI-2020.jpg)
 
+
+![SCI-2020](https://user-images.githubusercontent.com/39510792/85231765-8a8d8780-b417-11ea-89df-8711edbf2df8.jpg)
 
